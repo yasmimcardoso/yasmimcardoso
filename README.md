@@ -1,7 +1,7 @@
-### Hi there 👋
+### bem vindo ao perfil de yasmim
 
-<!--
-**yasmimcardoso/yasmimcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ola meu nome e yasmim da silva cardoso
+-estou estudando no [alura]-
 
 Here are some ideas to get you started:
 
